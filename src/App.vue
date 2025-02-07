@@ -10,12 +10,12 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from 'vue';
-import CubeMenu from './components/CubeMenu.vue';
+import { defineComponent } from "vue";
+import CubeMenu from "./components/CubeMenu.vue";
 
 export default defineComponent({
-  name: 'App',
-  components: { CubeMenu }
+  name: "App",
+  components: { CubeMenu },
 });
 </script>
 
